@@ -1,0 +1,46 @@
+.box{
+    border:solid 2px rgb(199, 197, 197);
+    font-family:sans-serif;
+    font-weight: 100;
+    width: 50%;
+    margin: 40px auto;
+    border-radius:10px; 
+}
+h1{
+    font-weight: 100;
+}
+.para1{
+    color:rgb(134, 132, 132);
+}
+hr{
+    Width: 100%;
+    margin-left:0;
+    padding-left: -30px;
+    background-color:rgb(134, 132, 132);
+}
+.header{
+    padding-left: 30px;
+}
+.image{
+   display:inline-block; 
+   padding: 15%;
+   border-radius:50%;
+   margin-left: 10px;
+}
+.image img{
+    margin-right: 15%;
+    margin-left: 15%;
+    width: 30px;
+    height: 30px;
+}
+.footer{
+    color:blue;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+a{
+    color:rgb(32, 148, 249);
+    text-decoration:none;
+}
+

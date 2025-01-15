@@ -1,0 +1,43 @@
+.box{
+    width: 60%;
+    /* border:solid; */
+    margin: 30px auto; 
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-family: "Flodesk Sans";
+}
+.info{
+    display: block;
+    margin:10px auto;
+    font-weight:500;
+    font-size: 17px;
+    border-radius:10px;
+    padding: 10px 30px 10px 30px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    margin: 10px auto 30px auto;
+    padding:10px 30px 10px 30px;
+    border-radius: 25px;
+    font-size: 17px;
+}
+p{
+    color:rgb(161, 160, 160);
+    font-size:15px;
+}
+p a{
+    color:black;
+}
+footer{
+    margin:40px auto;
+    font-size:13px;
+    color:rgb(161, 160, 160);
+    text-align: center;
+}
+footer a{
+    color:rgb(161, 160, 160);
+}
